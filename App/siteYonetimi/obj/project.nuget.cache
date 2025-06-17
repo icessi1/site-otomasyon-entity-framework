@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T0i3RR093KqyBtWnnS2NVpLAvAjDu0MKOOZMRKr5sEqRXRcb0UDaOEiMfOX8jbxd7Lq8VZsgwlP+UOeJ5RqzKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\OMERFARUK\\Desktop\\Windows Form\\site\\App\\siteYonetimi\\siteYonetimi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OMERFARUK\\.nuget\\packages\\entityframework\\6.5.1\\entityframework.6.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,59 @@
+C:\Yazılım\site\App\siteYonetimi\bin\Debug\siteYonetimi.exe.config
+C:\Yazılım\site\App\siteYonetimi\bin\Debug\siteYonetimi.exe
+C:\Yazılım\site\App\siteYonetimi\bin\Debug\siteYonetimi.pdb
+C:\Yazılım\site\App\siteYonetimi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Yazılım\site\App\siteYonetimi\bin\Debug\EntityFramework.dll
+C:\Yazılım\site\App\siteYonetimi\obj\Debug\siteYonetimi.csprojAssemblyReference.cache
+C:\Yazılım\site\App\siteYonetimi\obj\Debug\siteYonetimi.frmSite.resources
+C:\Yazılım\site\App\siteYonetimi\obj\Debug\siteYonetimi.Properties.Resources.resources
+C:\Yazılım\site\App\siteYonetimi\obj\Debug\siteYonetimi.csproj.GenerateResource.cache
+C:\Yazılım\site\App\siteYonetimi\obj\Debug\siteYonetimi.exe.licenses
+C:\Yazılım\site\App\siteYonetimi\obj\Debug\siteYonetimi.csproj.CoreCompileInputs.cache
+C:\Yazılım\site\App\siteYonetimi\obj\Debug\siteYonetimi.csproj.CopyComplete
+C:\Yazılım\site\App\siteYonetimi\obj\Debug\siteYonetimi.exe
+C:\Yazılım\site\App\siteYonetimi\obj\Debug\siteYonetimi.pdb
+C:\Yazılım\site\App\siteYonetimi\obj\Debug\siteYonetimi.frmParametre.resources
+C:\Yazılım\site\App\siteYonetimi\obj\Debug\siteYonetimi.frmKisi.resources
+C:\Yazılım\site\App\siteYonetimi\obj\Debug\siteYonetimi.frmSiteParametre.resources
+C:\Yazılım\site\App\siteYonetimi\obj\Debug\siteYonetimi.frmBlok.resources
+C:\Yazılım\site\App\siteYonetimi\obj\Debug\siteYonetimi.frmMenu.resources
+C:\Yazılım\site\App\siteYonetimi\obj\Debug\siteYonetimi.frmDaire.resources
+C:\Yazılım\site\App\siteYonetimi\obj\Debug\siteYonetimi.frmDaireKisi.resources
+C:\Yazılım\site\App\siteYonetimi\obj\Debug\siteYonetimi.frmRapor.resources
+C:\Users\OMERFARUK\Desktop\site\App\siteYonetimi\obj\Debug\siteYonetimi.csproj.AssemblyReference.cache
+C:\Users\OMERFARUK\Desktop\site\App\siteYonetimi\obj\Debug\siteYonetimi.frmDaireKisi.resources
+C:\Users\OMERFARUK\Desktop\site\App\siteYonetimi\obj\Debug\siteYonetimi.frmMenu.resources
+C:\Users\OMERFARUK\Desktop\site\App\siteYonetimi\obj\Debug\siteYonetimi.frmBlok.resources
+C:\Users\OMERFARUK\Desktop\site\App\siteYonetimi\obj\Debug\siteYonetimi.frmDaire.resources
+C:\Users\OMERFARUK\Desktop\site\App\siteYonetimi\obj\Debug\siteYonetimi.frmKisi.resources
+C:\Users\OMERFARUK\Desktop\site\App\siteYonetimi\obj\Debug\siteYonetimi.frmParametre.resources
+C:\Users\OMERFARUK\Desktop\site\App\siteYonetimi\obj\Debug\siteYonetimi.frmRapor.resources
+C:\Users\OMERFARUK\Desktop\site\App\siteYonetimi\obj\Debug\siteYonetimi.frmSite.resources
+C:\Users\OMERFARUK\Desktop\site\App\siteYonetimi\obj\Debug\siteYonetimi.frmSiteParametre.resources
+C:\Users\OMERFARUK\Desktop\site\App\siteYonetimi\obj\Debug\siteYonetimi.Properties.Resources.resources
+C:\Users\OMERFARUK\Desktop\site\App\siteYonetimi\obj\Debug\siteYonetimi.csproj.GenerateResource.cache
+C:\Users\OMERFARUK\Desktop\site\App\siteYonetimi\obj\Debug\siteYonetimi.exe.licenses
+C:\Users\OMERFARUK\Desktop\site\App\siteYonetimi\obj\Debug\siteYonetimi.exe
+C:\Users\OMERFARUK\Desktop\site\App\siteYonetimi\obj\Debug\siteYonetimi.pdb
+C:\Users\OMERFARUK\Desktop\Windows Form\site\App\siteYonetimi\obj\Debug\siteYonetimi.csproj.AssemblyReference.cache
+C:\Users\OMERFARUK\Desktop\Windows Form\site\App\siteYonetimi\obj\Debug\siteYonetimi.frmDaireKisi.resources
+C:\Users\OMERFARUK\Desktop\Windows Form\site\App\siteYonetimi\obj\Debug\siteYonetimi.frmMenu.resources
+C:\Users\OMERFARUK\Desktop\Windows Form\site\App\siteYonetimi\obj\Debug\siteYonetimi.frmBlok.resources
+C:\Users\OMERFARUK\Desktop\Windows Form\site\App\siteYonetimi\obj\Debug\siteYonetimi.frmDaire.resources
+C:\Users\OMERFARUK\Desktop\Windows Form\site\App\siteYonetimi\obj\Debug\siteYonetimi.frmKisi.resources
+C:\Users\OMERFARUK\Desktop\Windows Form\site\App\siteYonetimi\obj\Debug\siteYonetimi.frmParametre.resources
+C:\Users\OMERFARUK\Desktop\Windows Form\site\App\siteYonetimi\obj\Debug\siteYonetimi.frmRapor.resources
+C:\Users\OMERFARUK\Desktop\Windows Form\site\App\siteYonetimi\obj\Debug\siteYonetimi.frmSite.resources
+C:\Users\OMERFARUK\Desktop\Windows Form\site\App\siteYonetimi\obj\Debug\siteYonetimi.frmSiteParametre.resources
+C:\Users\OMERFARUK\Desktop\Windows Form\site\App\siteYonetimi\obj\Debug\siteYonetimi.Properties.Resources.resources
+C:\Users\OMERFARUK\Desktop\Windows Form\site\App\siteYonetimi\obj\Debug\siteYonetimi.csproj.GenerateResource.cache
+C:\Users\OMERFARUK\Desktop\Windows Form\site\App\siteYonetimi\obj\Debug\siteYonetimi.exe.licenses
+C:\Users\OMERFARUK\Desktop\Windows Form\site\App\siteYonetimi\obj\Debug\siteYonetimi.exe
+C:\Users\OMERFARUK\Desktop\Windows Form\site\App\siteYonetimi\obj\Debug\siteYonetimi.pdb
+C:\Users\OMERFARUK\Desktop\Windows Form\site\App\siteYonetimi\bin\Debug\siteYonetimi.exe.config
+C:\Users\OMERFARUK\Desktop\Windows Form\site\App\siteYonetimi\bin\Debug\siteYonetimi.exe
+C:\Users\OMERFARUK\Desktop\Windows Form\site\App\siteYonetimi\bin\Debug\siteYonetimi.pdb
+C:\Users\OMERFARUK\Desktop\Windows Form\site\App\siteYonetimi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\OMERFARUK\Desktop\Windows Form\site\App\siteYonetimi\bin\Debug\EntityFramework.dll
+C:\Users\OMERFARUK\Desktop\Windows Form\site\App\siteYonetimi\obj\Debug\siteYonetimi.csproj.CoreCompileInputs.cache
+C:\Users\OMERFARUK\Desktop\Windows Form\site\App\siteYonetimi\obj\Debug\siteYone.F4583969.Up2Date

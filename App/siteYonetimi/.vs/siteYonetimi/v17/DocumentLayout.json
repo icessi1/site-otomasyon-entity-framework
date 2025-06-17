@@ -1,0 +1,403 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\OMERFARUK\\Desktop\\Windows Form\\site\\App\\siteYonetimi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9542A143-EE13-4BE5-B523-8C089C5C5EDA}|siteYonetimi.csproj|c:\\users\\omerfaruk\\desktop\\windows form\\site\\app\\siteyonetimi\\query\\qsite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9542A143-EE13-4BE5-B523-8C089C5C5EDA}|siteYonetimi.csproj|solutionrelative:query\\qsite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9542A143-EE13-4BE5-B523-8C089C5C5EDA}|siteYonetimi.csproj|c:\\users\\omerfaruk\\desktop\\windows form\\site\\app\\siteyonetimi\\frmsite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9542A143-EE13-4BE5-B523-8C089C5C5EDA}|siteYonetimi.csproj|solutionrelative:frmsite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9542A143-EE13-4BE5-B523-8C089C5C5EDA}|siteYonetimi.csproj|c:\\users\\omerfaruk\\desktop\\windows form\\site\\app\\siteyonetimi\\frmsite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9542A143-EE13-4BE5-B523-8C089C5C5EDA}|siteYonetimi.csproj|solutionrelative:frmsite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9542A143-EE13-4BE5-B523-8C089C5C5EDA}|siteYonetimi.csproj|c:\\users\\omerfaruk\\desktop\\windows form\\site\\app\\siteyonetimi\\frmrapor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9542A143-EE13-4BE5-B523-8C089C5C5EDA}|siteYonetimi.csproj|solutionrelative:frmrapor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9542A143-EE13-4BE5-B523-8C089C5C5EDA}|siteYonetimi.csproj|c:\\users\\omerfaruk\\desktop\\windows form\\site\\app\\siteyonetimi\\frmrapor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9542A143-EE13-4BE5-B523-8C089C5C5EDA}|siteYonetimi.csproj|solutionrelative:frmrapor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9542A143-EE13-4BE5-B523-8C089C5C5EDA}|siteYonetimi.csproj|c:\\users\\omerfaruk\\desktop\\windows form\\site\\app\\siteyonetimi\\query\\qrapor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9542A143-EE13-4BE5-B523-8C089C5C5EDA}|siteYonetimi.csproj|solutionrelative:query\\qrapor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9542A143-EE13-4BE5-B523-8C089C5C5EDA}|siteYonetimi.csproj|c:\\users\\omerfaruk\\desktop\\windows form\\site\\app\\siteyonetimi\\query\\qparametreler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9542A143-EE13-4BE5-B523-8C089C5C5EDA}|siteYonetimi.csproj|solutionrelative:query\\qparametreler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9542A143-EE13-4BE5-B523-8C089C5C5EDA}|siteYonetimi.csproj|c:\\users\\omerfaruk\\desktop\\windows form\\site\\app\\siteyonetimi\\frmparametre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9542A143-EE13-4BE5-B523-8C089C5C5EDA}|siteYonetimi.csproj|solutionrelative:frmparametre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9542A143-EE13-4BE5-B523-8C089C5C5EDA}|siteYonetimi.csproj|c:\\users\\omerfaruk\\desktop\\windows form\\site\\app\\siteyonetimi\\frmparametre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9542A143-EE13-4BE5-B523-8C089C5C5EDA}|siteYonetimi.csproj|solutionrelative:frmparametre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9542A143-EE13-4BE5-B523-8C089C5C5EDA}|siteYonetimi.csproj|c:\\users\\omerfaruk\\desktop\\windows form\\site\\app\\siteyonetimi\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9542A143-EE13-4BE5-B523-8C089C5C5EDA}|siteYonetimi.csproj|solutionrelative:frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9542A143-EE13-4BE5-B523-8C089C5C5EDA}|siteYonetimi.csproj|c:\\users\\omerfaruk\\desktop\\windows form\\site\\app\\siteyonetimi\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9542A143-EE13-4BE5-B523-8C089C5C5EDA}|siteYonetimi.csproj|solutionrelative:frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9542A143-EE13-4BE5-B523-8C089C5C5EDA}|siteYonetimi.csproj|c:\\users\\omerfaruk\\desktop\\windows form\\site\\app\\siteyonetimi\\query\\qkisiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9542A143-EE13-4BE5-B523-8C089C5C5EDA}|siteYonetimi.csproj|solutionrelative:query\\qkisiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9542A143-EE13-4BE5-B523-8C089C5C5EDA}|siteYonetimi.csproj|c:\\users\\omerfaruk\\desktop\\windows form\\site\\app\\siteyonetimi\\frmkisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9542A143-EE13-4BE5-B523-8C089C5C5EDA}|siteYonetimi.csproj|solutionrelative:frmkisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9542A143-EE13-4BE5-B523-8C089C5C5EDA}|siteYonetimi.csproj|c:\\users\\omerfaruk\\desktop\\windows form\\site\\app\\siteyonetimi\\frmkisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9542A143-EE13-4BE5-B523-8C089C5C5EDA}|siteYonetimi.csproj|solutionrelative:frmkisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9542A143-EE13-4BE5-B523-8C089C5C5EDA}|siteYonetimi.csproj|c:\\users\\omerfaruk\\desktop\\windows form\\site\\app\\siteyonetimi\\frmdairekisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9542A143-EE13-4BE5-B523-8C089C5C5EDA}|siteYonetimi.csproj|solutionrelative:frmdairekisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9542A143-EE13-4BE5-B523-8C089C5C5EDA}|siteYonetimi.csproj|c:\\users\\omerfaruk\\desktop\\windows form\\site\\app\\siteyonetimi\\frmdairekisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9542A143-EE13-4BE5-B523-8C089C5C5EDA}|siteYonetimi.csproj|solutionrelative:frmdairekisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9542A143-EE13-4BE5-B523-8C089C5C5EDA}|siteYonetimi.csproj|c:\\users\\omerfaruk\\desktop\\windows form\\site\\app\\siteyonetimi\\frmdaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9542A143-EE13-4BE5-B523-8C089C5C5EDA}|siteYonetimi.csproj|solutionrelative:frmdaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9542A143-EE13-4BE5-B523-8C089C5C5EDA}|siteYonetimi.csproj|c:\\users\\omerfaruk\\desktop\\windows form\\site\\app\\siteyonetimi\\frmdaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9542A143-EE13-4BE5-B523-8C089C5C5EDA}|siteYonetimi.csproj|solutionrelative:frmdaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9542A143-EE13-4BE5-B523-8C089C5C5EDA}|siteYonetimi.csproj|c:\\users\\omerfaruk\\desktop\\windows form\\site\\app\\siteyonetimi\\frmblok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9542A143-EE13-4BE5-B523-8C089C5C5EDA}|siteYonetimi.csproj|solutionrelative:frmblok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9542A143-EE13-4BE5-B523-8C089C5C5EDA}|siteYonetimi.csproj|c:\\users\\omerfaruk\\desktop\\windows form\\site\\app\\siteyonetimi\\frmblok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9542A143-EE13-4BE5-B523-8C089C5C5EDA}|siteYonetimi.csproj|solutionrelative:frmblok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9542A143-EE13-4BE5-B523-8C089C5C5EDA}|siteYonetimi.csproj|c:\\users\\omerfaruk\\desktop\\windows form\\site\\app\\siteyonetimi\\query\\qdairekisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9542A143-EE13-4BE5-B523-8C089C5C5EDA}|siteYonetimi.csproj|solutionrelative:query\\qdairekisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9542A143-EE13-4BE5-B523-8C089C5C5EDA}|siteYonetimi.csproj|c:\\users\\omerfaruk\\desktop\\windows form\\site\\app\\siteyonetimi\\query\\qdaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9542A143-EE13-4BE5-B523-8C089C5C5EDA}|siteYonetimi.csproj|solutionrelative:query\\qdaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9542A143-EE13-4BE5-B523-8C089C5C5EDA}|siteYonetimi.csproj|c:\\users\\omerfaruk\\desktop\\windows form\\site\\app\\siteyonetimi\\query\\qblok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9542A143-EE13-4BE5-B523-8C089C5C5EDA}|siteYonetimi.csproj|solutionrelative:query\\qblok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmRapor.cs",
+              "DocumentMoniker": "C:\\Users\\OMERFARUK\\Desktop\\Windows Form\\site\\App\\siteYonetimi\\frmRapor.cs",
+              "RelativeDocumentMoniker": "frmRapor.cs",
+              "ToolTip": "C:\\Users\\OMERFARUK\\Desktop\\Windows Form\\site\\App\\siteYonetimi\\frmRapor.cs",
+              "RelativeToolTip": "frmRapor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:46:43.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmRapor.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\OMERFARUK\\Desktop\\Windows Form\\site\\App\\siteYonetimi\\frmRapor.cs",
+              "RelativeDocumentMoniker": "frmRapor.cs",
+              "ToolTip": "C:\\Users\\OMERFARUK\\Desktop\\Windows Form\\site\\App\\siteYonetimi\\frmRapor.cs [Tasar\u0131m]",
+              "RelativeToolTip": "frmRapor.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:46:42.29Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "qRapor.cs",
+              "DocumentMoniker": "C:\\Users\\OMERFARUK\\Desktop\\Windows Form\\site\\App\\siteYonetimi\\Query\\qRapor.cs",
+              "RelativeDocumentMoniker": "Query\\qRapor.cs",
+              "ToolTip": "C:\\Users\\OMERFARUK\\Desktop\\Windows Form\\site\\App\\siteYonetimi\\Query\\qRapor.cs",
+              "RelativeToolTip": "Query\\qRapor.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:42:31.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "qParametreler.cs",
+              "DocumentMoniker": "C:\\Users\\OMERFARUK\\Desktop\\Windows Form\\site\\App\\siteYonetimi\\Query\\qParametreler.cs",
+              "RelativeDocumentMoniker": "Query\\qParametreler.cs",
+              "ToolTip": "C:\\Users\\OMERFARUK\\Desktop\\Windows Form\\site\\App\\siteYonetimi\\Query\\qParametreler.cs",
+              "RelativeToolTip": "Query\\qParametreler.cs",
+              "ViewState": "AQIAAJUAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:41:38.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmParametre.cs",
+              "DocumentMoniker": "C:\\Users\\OMERFARUK\\Desktop\\Windows Form\\site\\App\\siteYonetimi\\frmParametre.cs",
+              "RelativeDocumentMoniker": "frmParametre.cs",
+              "ToolTip": "C:\\Users\\OMERFARUK\\Desktop\\Windows Form\\site\\App\\siteYonetimi\\frmParametre.cs",
+              "RelativeToolTip": "frmParametre.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAAwBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:40:27.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmParametre.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\OMERFARUK\\Desktop\\Windows Form\\site\\App\\siteYonetimi\\frmParametre.cs",
+              "RelativeDocumentMoniker": "frmParametre.cs",
+              "ToolTip": "C:\\Users\\OMERFARUK\\Desktop\\Windows Form\\site\\App\\siteYonetimi\\frmParametre.cs [Tasar\u0131m]",
+              "RelativeToolTip": "frmParametre.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:40:26.842Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmMenu.cs",
+              "DocumentMoniker": "C:\\Users\\OMERFARUK\\Desktop\\Windows Form\\site\\App\\siteYonetimi\\frmMenu.cs",
+              "RelativeDocumentMoniker": "frmMenu.cs",
+              "ToolTip": "C:\\Users\\OMERFARUK\\Desktop\\Windows Form\\site\\App\\siteYonetimi\\frmMenu.cs",
+              "RelativeToolTip": "frmMenu.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:37:31.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmSite.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\OMERFARUK\\Desktop\\Windows Form\\site\\App\\siteYonetimi\\frmSite.cs",
+              "RelativeDocumentMoniker": "frmSite.cs",
+              "ToolTip": "C:\\Users\\OMERFARUK\\Desktop\\Windows Form\\site\\App\\siteYonetimi\\frmSite.cs [Tasar\u0131m]",
+              "RelativeToolTip": "frmSite.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T17:23:38.533Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmSite.cs",
+              "DocumentMoniker": "C:\\Users\\OMERFARUK\\Desktop\\Windows Form\\site\\App\\siteYonetimi\\frmSite.cs",
+              "RelativeDocumentMoniker": "frmSite.cs",
+              "ToolTip": "C:\\Users\\OMERFARUK\\Desktop\\Windows Form\\site\\App\\siteYonetimi\\frmSite.cs",
+              "RelativeToolTip": "frmSite.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAADgvxgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T17:23:41.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "qSite.cs",
+              "DocumentMoniker": "C:\\Users\\OMERFARUK\\Desktop\\Windows Form\\site\\App\\siteYonetimi\\Query\\qSite.cs",
+              "RelativeDocumentMoniker": "Query\\qSite.cs",
+              "ToolTip": "C:\\Users\\OMERFARUK\\Desktop\\Windows Form\\site\\App\\siteYonetimi\\Query\\qSite.cs",
+              "RelativeToolTip": "Query\\qSite.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAUwJMAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T17:24:07.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmMenu.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\OMERFARUK\\Desktop\\Windows Form\\site\\App\\siteYonetimi\\frmMenu.cs",
+              "RelativeDocumentMoniker": "frmMenu.cs",
+              "ToolTip": "C:\\Users\\OMERFARUK\\Desktop\\Windows Form\\site\\App\\siteYonetimi\\frmMenu.cs [Tasar\u0131m]",
+              "RelativeToolTip": "frmMenu.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:37:29.628Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "qKisiler.cs",
+              "DocumentMoniker": "C:\\Users\\OMERFARUK\\Desktop\\Windows Form\\site\\App\\siteYonetimi\\Query\\qKisiler.cs",
+              "RelativeDocumentMoniker": "Query\\qKisiler.cs",
+              "ToolTip": "C:\\Users\\OMERFARUK\\Desktop\\Windows Form\\site\\App\\siteYonetimi\\Query\\qKisiler.cs",
+              "RelativeToolTip": "Query\\qKisiler.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:36:56.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmKisi.cs",
+              "DocumentMoniker": "C:\\Users\\OMERFARUK\\Desktop\\Windows Form\\site\\App\\siteYonetimi\\frmKisi.cs",
+              "RelativeDocumentMoniker": "frmKisi.cs",
+              "ToolTip": "C:\\Users\\OMERFARUK\\Desktop\\Windows Form\\site\\App\\siteYonetimi\\frmKisi.cs",
+              "RelativeToolTip": "frmKisi.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAuwBgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:35:13.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmKisi.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\OMERFARUK\\Desktop\\Windows Form\\site\\App\\siteYonetimi\\frmKisi.cs",
+              "RelativeDocumentMoniker": "frmKisi.cs",
+              "ToolTip": "C:\\Users\\OMERFARUK\\Desktop\\Windows Form\\site\\App\\siteYonetimi\\frmKisi.cs [Tasar\u0131m]",
+              "RelativeToolTip": "frmKisi.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:35:12.17Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmDaireKisi.cs",
+              "DocumentMoniker": "C:\\Users\\OMERFARUK\\Desktop\\Windows Form\\site\\App\\siteYonetimi\\frmDaireKisi.cs",
+              "RelativeDocumentMoniker": "frmDaireKisi.cs",
+              "ToolTip": "C:\\Users\\OMERFARUK\\Desktop\\Windows Form\\site\\App\\siteYonetimi\\frmDaireKisi.cs",
+              "RelativeToolTip": "frmDaireKisi.cs",
+              "ViewState": "AQIAALYAAAAAAAAAAAAAwBgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:32:19.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmDaireKisi.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\OMERFARUK\\Desktop\\Windows Form\\site\\App\\siteYonetimi\\frmDaireKisi.cs",
+              "RelativeDocumentMoniker": "frmDaireKisi.cs",
+              "ToolTip": "C:\\Users\\OMERFARUK\\Desktop\\Windows Form\\site\\App\\siteYonetimi\\frmDaireKisi.cs [Tasar\u0131m]",
+              "RelativeToolTip": "frmDaireKisi.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:32:18.168Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmDaire.cs",
+              "DocumentMoniker": "C:\\Users\\OMERFARUK\\Desktop\\Windows Form\\site\\App\\siteYonetimi\\frmDaire.cs",
+              "RelativeDocumentMoniker": "frmDaire.cs",
+              "ToolTip": "C:\\Users\\OMERFARUK\\Desktop\\Windows Form\\site\\App\\siteYonetimi\\frmDaire.cs",
+              "RelativeToolTip": "frmDaire.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAmwBgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:26:46.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmDaire.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\OMERFARUK\\Desktop\\Windows Form\\site\\App\\siteYonetimi\\frmDaire.cs",
+              "RelativeDocumentMoniker": "frmDaire.cs",
+              "ToolTip": "C:\\Users\\OMERFARUK\\Desktop\\Windows Form\\site\\App\\siteYonetimi\\frmDaire.cs [Tasar\u0131m]",
+              "RelativeToolTip": "frmDaire.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:26:45.156Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmBlok.cs",
+              "DocumentMoniker": "C:\\Users\\OMERFARUK\\Desktop\\Windows Form\\site\\App\\siteYonetimi\\frmBlok.cs",
+              "RelativeDocumentMoniker": "frmBlok.cs",
+              "ToolTip": "C:\\Users\\OMERFARUK\\Desktop\\Windows Form\\site\\App\\siteYonetimi\\frmBlok.cs",
+              "RelativeToolTip": "frmBlok.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAA8wBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:25:51.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmBlok.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\OMERFARUK\\Desktop\\Windows Form\\site\\App\\siteYonetimi\\frmBlok.cs",
+              "RelativeDocumentMoniker": "frmBlok.cs",
+              "ToolTip": "C:\\Users\\OMERFARUK\\Desktop\\Windows Form\\site\\App\\siteYonetimi\\frmBlok.cs [Tasar\u0131m]",
+              "RelativeToolTip": "frmBlok.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:25:50.339Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "qDaireKisi.cs",
+              "DocumentMoniker": "C:\\Users\\OMERFARUK\\Desktop\\Windows Form\\site\\App\\siteYonetimi\\Query\\qDaireKisi.cs",
+              "RelativeDocumentMoniker": "Query\\qDaireKisi.cs",
+              "ToolTip": "C:\\Users\\OMERFARUK\\Desktop\\Windows Form\\site\\App\\siteYonetimi\\Query\\qDaireKisi.cs",
+              "RelativeToolTip": "Query\\qDaireKisi.cs",
+              "ViewState": "AQIAANQAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:20:03.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "qDaire.cs",
+              "DocumentMoniker": "C:\\Users\\OMERFARUK\\Desktop\\Windows Form\\site\\App\\siteYonetimi\\Query\\qDaire.cs",
+              "RelativeDocumentMoniker": "Query\\qDaire.cs",
+              "ToolTip": "C:\\Users\\OMERFARUK\\Desktop\\Windows Form\\site\\App\\siteYonetimi\\Query\\qDaire.cs",
+              "RelativeToolTip": "Query\\qDaire.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:15:52.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "qBlok.cs",
+              "DocumentMoniker": "C:\\Users\\OMERFARUK\\Desktop\\Windows Form\\site\\App\\siteYonetimi\\Query\\qBlok.cs",
+              "RelativeDocumentMoniker": "Query\\qBlok.cs",
+              "ToolTip": "C:\\Users\\OMERFARUK\\Desktop\\Windows Form\\site\\App\\siteYonetimi\\Query\\qBlok.cs",
+              "RelativeToolTip": "Query\\qBlok.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAA8wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:10:54.262Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
